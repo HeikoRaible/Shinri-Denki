@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MAIN.unity
+    guid: d39eefaa14c89d190ab6123dc97dec11
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: 3d56894bf0dfb200e845dd6f493568cb
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: a2f074bc8c05bd499b918b88941ec260
+  - enabled: 1
+    path: Assets/Scenes/TimeGlove.unity
+    guid: 993642c48d552c11ba64069cc6a157ea
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: da49f6ae765f4fc24a7856c502f9fb37
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 3c8d87c34d2520455845d929ce200750
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 28b51f96500895ebca1087e7748b28f7
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: e71dc4c9a53376eeb983ea059c2f48a3
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 6c319b0c865139711a99cd639c733db2
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 6563cf3241f5b4cadacce8e7a01d15cc
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 0500dde006d4898fabb1d70fe3d56e2b
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 2b41fd45400a61e67b6cea671fa6126f
+  - enabled: 1
+    path: Assets/Scenes/JumpBoots.unity
+    guid: 279439b66a110d64b8ec39eee66964b1
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 30a87fa59d71a3187b2e1a180166a2c7
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 40c5b6a9f441ebbc597e085431315ba6
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: c2b675e4575d7f6039f82d3b393905c6
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: 607a3e5e019273e659fdb1e192502d19
+  - enabled: 1
+    path: Assets/Scenes/PreOutro.unity
+    guid: 568b9c5df3bbe154c9c0fc06555b30da
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: fbc61c854cc419642abcbd3be9d74eca
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: 51d9f124c5537e818996755018e86e2d
+  m_configObjects: {}
